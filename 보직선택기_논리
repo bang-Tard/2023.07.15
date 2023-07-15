@@ -11,9 +11,9 @@
   <script>
     // 보직 이미지 파일 경로 및 파일 이름 배열
     var images = [
-      "https://github.com/bang-Tard/2023.07.15/blob/main/%EC%86%8C%EC%B4%9D%EC%88%98.png?raw=true",
-      "https://github.com/bang-Tard/2023.07.15/blob/main/%EC%A1%B0%EA%B5%90.png?raw=true",
-      "https://github.com/bang-Tard/2023.07.15/blob/main/%ED%86%B5%EC%8B%A0%EB%B3%91.png?raw=true.jpg",
+      "https://github.com/bang-Tard/2023.07.15/blob/main/%EC%86%8C%EC%B4%9D%EC%88%98.png",
+      "https://github.com/bang-Tard/2023.07.15/blob/main/%EC%A1%B0%EA%B5%90.png",
+      "https://github.com/bang-Tard/2023.07.15/blob/main/%ED%86%B5%EC%8B%A0%EB%B3%91.png",
       // 추가적인 이미지 경로 및 파일 이름을 배열에 추가할 수 있습니다.
     ];
 
